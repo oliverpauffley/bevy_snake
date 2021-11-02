@@ -1,0 +1,4 @@
+#+TITLE: Readme
+
+* Bevy Snake
+Snake implemented in the bevy ECS game engine. Following the tutorial [[https://mbuffett.com/posts/bevy-snake-tutorial/][here]]
